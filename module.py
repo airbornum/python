@@ -1,1 +1,1 @@
-title = "Add a module in the script"
+title = "Add a module in the scr2ipt"

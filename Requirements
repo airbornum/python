@@ -1,10 +1,26 @@
 English speaking
 Linux
-Ansible
+Ansible (ADV_IT)
 CI/CD Process (Jenkins, TeamCity)
 Docker/K8s
 Gitlab/Github/Git
-MySQL/Redis
-Python
-AWS
-Nginx
+-MySQL/Redis/Mongo
+ cluster
+
+-Python
+ Automation administrative tasks
+ Logs
+ Work with sting
+ Work with file, directorys
+
+-AWS
+ Terraform
+
+-Nginx
+ php-fpm
+
+-Monitoring
+ Nagios
+ ELK
+ Prometheus
+ Grafana

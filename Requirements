@@ -5,7 +5,7 @@ CI/CD Process (Jenkins, TeamCity)
 Docker/K8s
 Gitlab/Github/Git
 -MySQL/Redis/Mongo
- cluster
+ cluster, replication
 
 -Python
  Automation administrative tasks
@@ -15,6 +15,20 @@ Gitlab/Github/Git
 
 -AWS
  Terraform
+ VPC
+ EC2
+ IAM
+ S3
+ CloudWatch
+ ELB
+ RDS
+ Route53
+ Beanstalk
+ ECS/ECR
+ Autoscaling group
+ EFS
+ EBS
+ AMI (Amazon Machine Image)
 
 -Nginx
  php-fpm
@@ -24,3 +38,13 @@ Gitlab/Github/Git
  ELK
  Prometheus
  Grafana
+ TIG
+
+-OS Services
+ Bareos
+
+-Pipelines
+  Jenkins - Docker - Packer - Terraform
+  Jenkins - Docker - Registry ECS
+  Jenkins - JAVA - ECS  - Docker
+
